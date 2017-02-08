@@ -1,0 +1,10 @@
+img:hover {
+    border-color: red;
+}
+
+img {
+    border: 1px solid blue;
+    border-width: 10px;
+    background-color: #ff0;
+    padding: 1px;
+}
